@@ -1,0 +1,17 @@
+# Compiled class file
+/target/
+
+# Log file
+*.log
+
+# Package file
+*.jar
+*.war
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Maven
+.mvn/
