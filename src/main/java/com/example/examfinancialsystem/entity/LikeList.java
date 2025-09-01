@@ -1,4 +1,4 @@
-package com.example.Exam_financial_system.entity;
+package com.example.examfinancialsystem.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

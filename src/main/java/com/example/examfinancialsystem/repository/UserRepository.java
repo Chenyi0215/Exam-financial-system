@@ -1,6 +1,6 @@
-package com.example.Exam_financial_system.repository;
+package com.example.examfinancialsystem.repository;
 
-import com.example.Exam_financial_system.entity.User;
+import com.example.examfinancialsystem.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, String> {

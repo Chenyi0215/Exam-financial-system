@@ -1,4 +1,4 @@
-package com.example.Exam_financial_system;
+package com.example.examfinancialsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

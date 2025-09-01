@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.example.Exam-financial-system' is invalid and this project uses 'com.example.Exam_financial_system' instead.
+* The original package name 'com.example.Exam-financial-system' is invalid and this project uses 'com.example.examfinancialsystem' instead.
 
 # Getting Started
 

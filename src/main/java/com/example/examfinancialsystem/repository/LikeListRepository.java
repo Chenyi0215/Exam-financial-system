@@ -1,6 +1,6 @@
-package com.example.Exam_financial_system.repository;
+package com.example.examfinancialsystem.repository;
 
-import com.example.Exam_financial_system.entity.LikeList;
+import com.example.examfinancialsystem.entity.LikeList;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
